@@ -87,7 +87,7 @@ def qsc_predictor(
                     #  "../mdn_torch/models/mean_std_4.pth",
                     #  "../mdn_torch/models/mean_std_5.pth",
                     #  "../mdn_torch/models/mean_std_combined.pth",
-                 "./models/mean_std_5.pth"]
+                 "./models/mean_std_2024_04_05_01_01_18.pth"]
 
     # Initialize lists to store configurations and values for Qsc
     current_dir = os.path.dirname(os.path.abspath(__file__))
